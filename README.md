@@ -1,1 +1,1 @@
-# Tech degree- project
+Tech Degree Project
